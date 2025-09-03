@@ -20,7 +20,7 @@ I followed along with the \*\*CodeWithHarry Java Playlist\*\*, which helped me b
 
 \## 🙏 Special Thanks
 
-A huge thanks to https://github.com/CodeWithHarry) vai for his amazing work and  
+A huge thanks to https://github.com/CodeWithHarry vai for his amazing work and  
 
 his https://www.youtube.com/@CodeWithHarry, which made learning Java so much easier for me.  
 
